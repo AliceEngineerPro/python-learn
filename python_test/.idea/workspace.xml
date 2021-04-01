@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83757a18-4874-43c4-bb24-046ea8921ed1" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="298a548e-20c5-41be-8524-fabd27c22a4c" />
+  <component name="ProjectId" id="1jea3TI9HKjnTzY5ATFbBQ5SKTo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Excel_learn/排序多重排序.py" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.uml" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python" editBeforeRun="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="host-py" type="PythonConfigurationType" factoryName="Python" editBeforeRun="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python\python378\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Excel_learn" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Excel_learn/排序多重排序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="D:\PyCharm\text project\Excel_learn\数字自动填充Excel.py" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83757a18-4874-43c4-bb24-046ea8921ed1" name="默认的" comment="" />
+      <created>1604166813851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604166813851</updated>
+      <workItem from="1604166815509" duration="191000" />
+      <workItem from="1604167032019" duration="38000" />
+      <workItem from="1604167580982" duration="285000" />
+      <workItem from="1604167881035" duration="55000" />
+      <workItem from="1604201084907" duration="1765000" />
+      <workItem from="1604203571417" duration="1030000" />
+      <workItem from="1604204834583" duration="576000" />
+      <workItem from="1604206869795" duration="5853000" />
+      <workItem from="1604215589632" duration="1509000" />
+      <workItem from="1604219697181" duration="1008000" />
+      <workItem from="1604278143773" duration="81000" />
+      <workItem from="1604279735817" duration="15105000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="751" y="374" key="#Notifications" timestamp="1604278224246">
+      <screen x="68" y="0" width="1852" height="1080" />
+    </state>
+    <state x="751" y="374" key="#Notifications/68.0.1852.1080@68.0.1852.1080" timestamp="1604278224246" />
+    <state x="502" y="52" width="1092" height="990" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604209366124">
+      <screen x="68" y="0" width="1852" height="1080" />
+    </state>
+    <state x="502" y="52" width="1092" height="990" key="#com.intellij.execution.impl.EditConfigurationsDialog/68.0.1852.1080@68.0.1852.1080" timestamp="1604209366124" />
+    <state x="797" y="301" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604167760827">
+      <screen x="68" y="0" width="1852" height="1080" />
+    </state>
+    <state x="797" y="301" key="#com.intellij.fileTypes.FileTypeChooser/68.0.1852.1080@68.0.1852.1080" timestamp="1604167760827" />
+    <state x="685" y="191" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1604201333627">
+      <screen x="68" y="0" width="1852" height="1080" />
+    </state>
+    <state x="685" y="191" key="#com.intellij.ide.macro.MacrosDialog/68.0.1852.1080@68.0.1852.1080" timestamp="1604201333627" />
+    <state x="721" y="268" key="FileChooserDialogImpl" timestamp="1604306032625">
+      <screen x="68" y="0" width="1852" height="1080" />
+    </state>
+    <state x="721" y="268" key="FileChooserDialogImpl/68.0.1852.1080@68.0.1852.1080" timestamp="1604306032625" />
+    <state width="1277" height="123" key="GridCell.Tab.0.bottom" timestamp="1604306757151">
+      <screen x="68" y="0" width="1852" height="1080" />
+    </state>
+    <state width="1277" height="123" key="GridCell.Tab.0.bottom/68.0.1852.1080@68.0.1852.1080" timestamp="1604306757151" />
+    <state width="1277" height="123" key="GridCell.Tab.0.center" timestamp="1604306757151">
+      <screen x="68" y="0" width="1852" height="1080" />
+    </state>
+    <state width="1277" height="123" key="GridCell.Tab.0.center/68.0.1852.1080@68.0.1852.1080" timestamp="1604306757151" />
+    <state width="1277" height="123" key="GridCell.Tab.0.left" timestamp="1604306757151">
+      <screen x="68" y="0" width="1852" height="1080" />
+    </state>
+    <state width="1277" height="123" key="GridCell.Tab.0.left/68.0.1852.1080@68.0.1852.1080" timestamp="1604306757151" />
+    <state width="1277" height="123" key="GridCell.Tab.0.right" timestamp="1604306757151">
+      <screen x="68" y="0" width="1852" height="1080" />
+    </state>
+    <state width="1277" height="123" key="GridCell.Tab.0.right/68.0.1852.1080@68.0.1852.1080" timestamp="1604306757151" />
+    <state width="1152" height="209" key="GridCell.Tab.1.bottom" timestamp="1604201705127">
+      <screen x="68" y="0" width="1852" height="1080" />
+    </state>
+    <state width="1152" height="209" key="GridCell.Tab.1.bottom/68.0.1852.1080@68.0.1852.1080" timestamp="1604201705127" />
+    <state width="1152" height="209" key="GridCell.Tab.1.center" timestamp="1604201705127">
+      <screen x="68" y="0" width="1852" height="1080" />
+    </state>
+    <state width="1152" height="209" key="GridCell.Tab.1.center/68.0.1852.1080@68.0.1852.1080" timestamp="1604201705127" />
+    <state width="1152" height="209" key="GridCell.Tab.1.left" timestamp="1604201705127">
+      <screen x="68" y="0" width="1852" height="1080" />
+    </state>
+    <state width="1152" height="209" key="GridCell.Tab.1.left/68.0.1852.1080@68.0.1852.1080" timestamp="1604201705127" />
+    <state width="1152" height="209" key="GridCell.Tab.1.right" timestamp="1604201705127">
+      <screen x="68" y="0" width="1852" height="1080" />
+    </state>
+    <state width="1152" height="209" key="GridCell.Tab.1.right/68.0.1852.1080@68.0.1852.1080" timestamp="1604201705127" />
+    <state x="623" y="242" key="SettingsEditor" timestamp="1604212675011">
+      <screen x="68" y="0" width="1852" height="1080" />
+    </state>
+    <state x="623" y="242" key="SettingsEditor/68.0.1852.1080@68.0.1852.1080" timestamp="1604212675011" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/text_project$.coverage" NAME="2 Coverage Results" MODIFIED="1604167856052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2" />
+    <SUITE FILE_PATH="coverage/text_project$host_py.coverage" NAME="host-py Coverage Results" MODIFIED="1604306339233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Excel_learn" />
+    <SUITE FILE_PATH="coverage/text_project$1.coverage" NAME="host-py Coverage Results" MODIFIED="1604202787684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
