@@ -45,6 +45,7 @@ def function_2(x, y):
     return count_2
 
 
-function_2 = function_2(1, 2)
+function_2 = function_2(3, 2)
 print(function_2)
+
 
